@@ -35,9 +35,12 @@ A **gardening knowledge platform** powered by autonomous AI agents that research
 
 ## 🏗️ Tech Stack
 
-**Web Platform:** Next.js 15 • React 19 • TypeScript • Tailwind CSS • tRPC • Prisma • PostgreSQL
-**AI Agents:** Python • LangGraph • LangChain • Temporal • Claude • GPT-4o • DALL-E 3
-**Infrastructure:** OpenTofu • Hetzner Cloud • Coolify • Docker • Qdrant • Redis
+**Web Platform:** Next.js 15 • React 19 • TypeScript • Tailwind CSS • shadcn/ui
+**API & Data:** tRPC • Prisma • PostgreSQL • NextAuth.js
+**AI Agents:** Python • LangGraph • LangChain • Temporal
+**AI Models:** Claude 4.5 Sonnet • GPT-4o • Claude Haiku • DALL-E 3
+**Infrastructure:** Hetzner Cloud • Coolify • Docker • OpenTofu
+**Services:** Qdrant (vectors) • Redis (events) • PostgreSQL (event store)
 
 ## 📚 Repositories
 

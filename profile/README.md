@@ -36,7 +36,7 @@ Production-grade web applications using **Next.js 15**, **TypeScript**, and **Po
 
 - **[webapp](https://github.com/Plukplan/webapp)** - Full-stack Next.js application
 - **[infrastructure](https://github.com/Plukplan/infrastructure)** - OpenTofu IaC for Hetzner Cloud
-- **team** - Team management tools (in development)
+- **[team](https://github.com/Plukplan/team)** - Python AI agent system (John, Beatrix, Hugh)
 
 ---
 
